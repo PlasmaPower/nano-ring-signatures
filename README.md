@@ -43,3 +43,18 @@ Account or signature to finish: c326ce7003601e3f264005d0b209312cf31efe82c2b1e81d
 Message: Hello world!
 Ring signature is valid! :)
 ```
+
+An example with real, in-use keys
+(I'm sure you can guess which one I used to sign it :P):
+```
+Message: Hello there
+
+Sorted accounts list:
+xrb_1niabkx3gbxit5j5yyqcpas71dkffggbr6zpd3heui8rpoocm5xqbdwq44oh
+xrb_3jwrszth46rk1mu7rmb4rhm54us8yg1gw3ipodftqtikf5yqdyr7471nsg1k
+xrb_3p1asma84n8k84joneka776q4egm5wwru3suho9wjsfyuem8j95b3c78nw8j
+xrb_3t6k35gi95xu6tergt6p69ck76ogmitsa8mnijtpxm9fkcm736xtoncuohr3
+
+Signature:
+ce032620c199ad0218ad76f441708a480d80793259fbf34b70e8126ae65ffc0ac275ab7823d6350db3fd34534877e1141f8d66bfa66c5e46ed37ef52d506d80944d5f0aef949ce40299b3df3d8af99f976c5c3c856872659431647f879e161060a296c288d4dbf71af8d9ea6edbb973c16c36fd08954e388a532bb51eaffb50be9eafb13ca7bc108d6b10519dae77f7d016caf986726d891c4906ef30acaf006
+```
