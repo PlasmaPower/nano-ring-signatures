@@ -1,0 +1,13 @@
+[package]
+name = "nano-ring-signatures"
+version = "0.1.0"
+authors = ["Lee Bousfield <ljbousfield@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nanocurrency-types = "0.3.16"
+rpassword = "3.0.2"
+hex = "0.3.2"
+curve25519-dalek = "1.1.4"
+blake2 = "0.8.0"
+rand = "0.6.5"
