@@ -7,8 +7,9 @@ Uses Abe-Ohkubo-Suzuki ring signatures: https://paper.dropbox.com/doc/Ring-Signa
 This is just for messages, not transactions.
 It isn't integrated into the protocol in any way.
 
-**This is not production ready code and might leak your private key**,
-as I haven't examined the code or algorithm too carefully.
+**This has not received formal review**. While after a quick code review,
+I'm satisfied that it won't leak your private key, it still might
+leak your identity if I've implemented it incorrectly.
 
 ## Generating a ring signature
 ```
